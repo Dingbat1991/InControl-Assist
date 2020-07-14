@@ -1,0 +1,51 @@
+[
+  {
+    "dimension": 0,
+    "biome": [
+      "minecraft:jungle",
+      "minecraft:jungle_edge",
+      "minecraft:jungle_hills",
+      "minecraft:modified_jungle",
+      "minecraft:modified_jungle_edge"
+    ],
+    "mobs": [
+      {
+        "mob": "wizard_animals_plus:butterfly_mexican_shoemaker",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      },
+      {
+        "mob": "wizard_animals_plus:butterfly_pink_glass",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      },
+      {
+        "mob": "wizard_animals_plus:butterfly_red_agrias",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      },
+      {
+        "mob": "wizard_animals_plus:capuchin_blond",
+        "weight": 50,
+        "groupcountmin": 2,
+        "groupcountmax": 5
+      },
+      {
+        "mob": "wizard_animals_plus:capuchin_brown",
+        "weight": 4,
+        "groupcountmin": 2,
+        "groupcountmax": 5
+      },
+      {
+        "mob": "wizard_animals_plus:crocodile",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 4
+      }
+    ],
+    "result": "allow"
+  }
+]

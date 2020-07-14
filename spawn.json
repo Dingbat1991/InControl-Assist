@@ -1,0 +1,26 @@
+[
+  {
+    "mob": "wizard_animals_plus:butterfly_mexican_shoemaker",
+    "result": "allow"
+  },
+  {
+    "mob": "wizard_animals_plus:butterfly_pink_glass",
+    "result": "allow"
+  },
+  {
+    "mob": "wizard_animals_plus:butterfly_red_agrias",
+    "result": "allow"
+  },
+  {
+    "mob": "wizard_animals_plus:capuchin_blond",
+    "result": "allow"
+  },
+  {
+    "mob": "wizard_animals_plus:capuchin_brown",
+    "result": "allow"
+  },
+  {
+    "mob": "wizard_animals_plus:crocodile",
+    "result": "allow"
+  }
+]
